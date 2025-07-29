@@ -2,8 +2,6 @@
 
 Fokus é um timer inspirado na técnica Pomodoro, projetado para ajudar você a otimizar sua produtividade, alternando entre períodos de foco e pausas curtas ou longas.
 
-![Fokus Screenshot](./imagens/logo.png)
-
 ## Funcionalidades
 
 - **Timer de Foco:** 25 minutos para se concentrar no que importa.
